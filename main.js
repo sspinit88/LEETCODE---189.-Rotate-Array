@@ -87,3 +87,9 @@ function reverse(nums, start, end) {
     end--;
   }
 }
+
+/*
+This solution has a time complexity of O(n) and a space complexity of O(1), where n is the length of the array.
+
+Это решение имеет временную сложность O(n) и пространственную сложность O(1), где n — длина массива.
+*/
